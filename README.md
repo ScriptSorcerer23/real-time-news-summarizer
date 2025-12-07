@@ -4,6 +4,8 @@ This is a full RAFT project — **Retrieval-Augmented Fine-Tuning** — where a 
 
 ---
 
+Linkedin/Demo: https://igit.me/News-Summarizer
+
 ## 💡 What It Does
 
 - 🔍 **Fetches live news** from GNews API
